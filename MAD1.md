@@ -24,10 +24,10 @@ Data Redundancy
 View
 
 #### Which of the following is the correct code for referring to an external style sheet in an HTML document?
-- <stylesheet> example.css </stylesheet>
-- <link rel = “stylesheet” type =“text/css” href =“example.css”>
-- <style src = “example.css” >
-- <link rel = “stylesheet” type = “text/css” src = “example.css”>
+- `<stylesheet> example.css </stylesheet>`
+- `<link rel = “stylesheet” type =“text/css” href =“example.css”>`
+- `<style src = “example.css” >`
+- `<link rel = “stylesheet” type = “text/css” src = “example.css”>`
 
 
 #### What will be the color of text “IITM Online” if the above styling is used?
