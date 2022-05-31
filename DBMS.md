@@ -91,7 +91,7 @@ Years of Completion
 
 2 points
 In Figure 6, addressaddress is a . . . . . . . . . attribute.
-!()[https://backend.seek.onlinedegree.iitm.ac.in/21t3_cs2001/assets/img/DBQ26.png]
+![](https://backend.seek.onlinedegree.iitm.ac.in/21t3_cs2001/assets/img/DBQ26.png)
 
 - multi-valued
 - composite
