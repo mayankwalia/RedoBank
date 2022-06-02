@@ -10,6 +10,69 @@ Accepted Answers:
 - [X] Integrity constrains
 - [X] Authorizations
 
+Which among the following is/are not a part of Query Processing?
+Options :
+A. Optimization
+B. Parsing and translation
+C. Indexing
+D. Evaluation Engine
+
+
+16. Consider the relational schema given in Figure 13.
+
+Figure 13: Employee Schema
+
+If the relations employee, designation and department have 100, 6, 5 rows respec-
+tively, what is the maximum number of rows returned by the following query?
+
+[NAT: 4 points]
+
+SELECT * FROM employee FULL OUTER JOIN designation
+ON employee.desgID = designation.desgID;
+Answer: 105
+
+Solution: desgID is the foreign key in table employee that references designation
+
+table. It follows that the desgID in any row of employee table will have a corre-
+sponding entry in the designation table. However, the converse is not always true.
+
+That is, corresponding to each desgID in the designation table, there need not be
+an entry in the employee table. Hence, the minimum number of rows in the outer
+
+join is the number of rows in the employee table, which is 100. However, the maxi-
+mum may not be 100 because, there could be rows in the designation table that do
+
+not have a matching entry in the employee table. Note that there should be at least
+one desgID in department table that has a matching entry in the employee table
+since desgID in employee table is a foreign key. If we assume all 100 rows in the
+employee table have the same desgID, then there will be five rows from designation
+table that do not have matching entries in the employee table, but will appear in the
+output of the outer join. Therefore, the maximum number of rows returned by the
+given query is 100 + 5 = 105.
+
+
+Answer:
+C. Indexing
+Managing the task of designing and maintaining a database is performed by:
+Options :
+A. Storage Manager
+B. Transaction Manager
+C. Concurrency-control Manager
+D. Database Administrator
+
+Answer: 
+D. Database Administrator
+
+Which of the following stores information regarding how much space is currently used by a table
+in the database?
+Options :
+A. Concurrency Control Manager
+B. Transaction Log
+C. Data Dictionary
+D. None of these
+
+Accepted Answers:
+C. Data Dictionary
 Which of the following is/are true about Object Relational Data Model?
 - [ ] It contains atomic values.
 - [ ] It was originally intended as a document markup language and not as a database language.
