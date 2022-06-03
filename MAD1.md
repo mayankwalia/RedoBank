@@ -6,6 +6,51 @@
 - None of these
 ##### [Answer](Peer-to-Peer)
 
+### Relational databases allow to reduce the data duplication.
+### A Foreign key can be null
+How many primary keys can a table have?
+- [ ] Only 1
+- [ ] Only 2
+- [ ] Depends on the number of fields
+- [ ] Depends on the database.
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+Only 1
+
+1 point
+Which of the following standards uses 8-bit,16-bit or 32-bit encoding?
+- [ ] ASCII
+- [ ] UNICODE
+- [ ] Both ASCII and UNICODE
+- [ ] None of the above
+
+Accepted Answers:
+UNICODE
+
+
+1 point
+In wireframes, which of the following designs relates to the interaction between the machine and the user?
+- [ ] Information Design
+- [ ] Navigation Design
+- [ ] User interface Design
+- [ ] All of the above
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+User interface Design
+
+Which of the following statements is/are true about the Smalltalk-80 programming language?
+- [ ] Smalltalk-80 is a pure object-oriented programming language.
+- [ ] Smalltalk-80 is a dynamically typed language.
+- [ ] Smalltalk-80 is a scripting programming language that performs client side validations.
+- [ ] None of the above
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+Smalltalk-80 is a pure object-oriented programming language.
+Smalltalk-80 is a dynamically typed language.
+
 #### In DBMS, the condition where the same piece of data is stored in two or more different places and loss of one of its copies does not affect the functioning of the application is called __________
 - Data Inconsistency
 - Data Redundancy
