@@ -4,6 +4,39 @@ Which of the following is/are the content(s) of a data dictionary?
 - [ ] Integrity constrains
 - [ ] Authorizations
 
+The relationship associating the weak entity set with the identifying entity set is called ______.
+- [ ] Weak relationship
+- [ ] Own relationship
+- [ ] Identifying entity
+- [ ] Identifying relationship
+
+
+Accepted Answers:
+Identifying relationship
+2 points
+
+
+Union is a ........ set.
+- [ ] Pure
+- [ ] Multi
+- [ ] Both
+- [ ] None of the above
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+Pure
+
+
+Which among the following statements is/are true regarding weak entity sets?
+- [ ] Every weak entity must be associated with an identifying entity.
+- [ ] An entity set that is not a weak entity set is termed as a strong entity set.
+- [ ] The identifying entity set is said to own the strong entity set that it identifies.
+- [ ] All of the above.
+
+Accepted Answers:
+- [X] Every weak entity must be associated with an identifying entity.
+- [X] An entity set that is not a weak entity set is termed as a strong entity set.
+
 Accepted Answers:
 - [X] Database schema
 - [ ] Database instance
