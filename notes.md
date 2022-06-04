@@ -1,3 +1,4 @@
+![](https://aws1.discourse-cdn.com/business20/uploads/iitm/optimized/2X/d/d13b3e1b1095376c804e1da9772c69e201b254c1_2_1035x406.png)
 In MVC design pattern, a model is an application object which can store the application data. The View represents data in specified ways. Controller is the one that manipulates the model and updates the view.
   
 Hypertext Transfer Protocol (HTTP) is a set of rules that clients and
